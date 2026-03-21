@@ -1,17 +1,52 @@
-# notes_app
+# NotesApp 📝
 
-A new Flutter project.
+A cross-platform notes app built with Flutter, available on Android and Windows.
+Minimal dark aesthetic, fully local storage — your notes never leave your device.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-3.41.5-blue)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-green)
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Text notes
+- ✅ To-do lists with checkboxes
+- 🎨 Drawing canvas
+- 📌 Pin important notes
+- 🔍 Search across all notes
+- 🌙 Dark / light theme toggle
+- 💾 Fully local storage — no internet needed
+- ☁️ Cloud sync coming soon
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Setup
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repo
+2. Install dependencies:
+```bash
+flutter pub get
+```
+3. Run:
+```bash
+flutter run
+```
+
+## Build
+
+**Android APK:**
+```bash
+flutter build apk --release
+```
+
+**Windows EXE:**
+```bash
+flutter build windows
+```
+
+## Tech Stack
+
+- Flutter / Dart
+- shared_preferences
+- intl
+
+## Version
+
+Current: 1.0.0
