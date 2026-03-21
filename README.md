@@ -6,6 +6,8 @@ Minimal dark aesthetic, fully local storage — your notes never leave your devi
 ![Flutter](https://img.shields.io/badge/Flutter-3.41.5-blue)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-green)
 
+<img width="1257" height="702" alt="image" src="https://github.com/user-attachments/assets/f9080cfd-faaa-485a-9b6e-bc8afc401183" />
+
 ## Features
 
 - 📝 Text notes
